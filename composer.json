@@ -1,0 +1,15 @@
+{
+    "name": "coder/cms",
+    "autoload": {
+        "psr-4": {
+            "Coder\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "--replace-all",
+            "email": "surya.indian321@gmail.com"
+        }
+    ],
+    "require": {}
+}
